@@ -102,14 +102,19 @@ h2 {
     position: relative;
     bottom: 20%;
     width: 100%;
-    text-align: center;
+    float: left;
     background: #4aaaa5;
     color: #fff;
     padding: 10px 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 22px;
-    
+    font-size: 1.15em;
 
+}
+
+.github {
+    display: inline-block;
+    align-content: right;
+    position: relative;
 
 }
 
