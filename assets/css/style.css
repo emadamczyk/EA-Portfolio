@@ -98,10 +98,6 @@ h2 {
     width: 25px;
 }
 
-.sm-icon {
-    width: 10px;
-}
-
 .icons {
     text-align: center;
 }
@@ -112,10 +108,10 @@ h2 {
 
 }
 
-.gallery img {
+/*.gallery img {
     width: 100%;
 
-}
+}*/
 
 .gallery h4 {
     position: relative;
@@ -124,7 +120,7 @@ h2 {
     float: left;
     background: #7BC6C2;
     color: #fff;
-    padding: 10px 0;
+    padding: 10px 3px;
     font-family: 'Lora', serif;
     font-size: 1.15em;
 
@@ -132,7 +128,9 @@ h2 {
 
 .github {
     display: inline-block;
-    align-content: right;
+    float: right;
+    height: 20px;
+    margin-right: 3px;
     position: relative;
 
 }
