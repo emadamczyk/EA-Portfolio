@@ -23,13 +23,14 @@ nav {
     background: #4aaaa5 !important;
     padding:10px 20px;
     margin: 0;
-    font-weight: bold;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lora', serif;
+    font-weight: bolder;
+    
 }
 
 h2 {
     color: #4aaaa5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lora', serif;
     margin-top: 10px;
 
 }
@@ -130,7 +131,7 @@ h2 {
 .footer-text {
     text-align: center;
     color: #ddd;
-    font-size: .5em;
+    font-size: .7em;
     padding-top: 20px;
     margin-bottom: 0;
     background: #666;
